@@ -1,0 +1,8 @@
+body {
+    color: #55aaff;
+    margin: 0 10px;
+}
+ul { list-style-type: none; }
+.list {
+	border: 1px solid darkblue; max-height: 150px; overflow-y: scroll;
+}
